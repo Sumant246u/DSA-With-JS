@@ -14,22 +14,7 @@
         // }
         // console.log(Array);
 
-        // function insertEl() {
-        //     let data = [60, 30, 40, 50, 80]
-        //     let newEl = document.getElementById('newel').value;
-        //     let position = document.getElementById('position').value;
-
-        //     for (let i = data.length - 1; i >= 0; i--) {
-        //         if (i >= position) {
-        //             data[i + 1] = data[i]
-        //             if (i == position) {
-        //                 data[i] = newEl
-        //             }
-        //         }
-        //     }
-        //     console.log(data);
-            
-        // }
+       
 
 
         //Insert A value using JS predefined function
