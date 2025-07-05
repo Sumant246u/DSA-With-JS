@@ -5,7 +5,6 @@ for (let i = 0; i < data.length; i++) {
     console.log(`Array ${i} is ${data[i]}`);
 }
 
-let x = 10;
 console.log(data[5]);  // prints: 92
 
 
