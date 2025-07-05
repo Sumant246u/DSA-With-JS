@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script>
-        let data=[10,20,30,40]
+ let data=[10,20,30,40]
         let data2=[100,200,300,400]
         // let data3=[]
 
@@ -24,11 +17,3 @@
         //Using Predefined function
         let data3=[...data,...data2]
         console.log(data3);
-        
-        
-    </script>
-</head>
-<body>
-    
-</body>
-</html>

@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script>
-        //Insert A value 2nd position
+ //Insert A value 2nd position
         // let Array=[10,20,30,50,60,70];
         // let newEl=5;
         // let position=2;
@@ -44,16 +36,5 @@
         const items=[10,20,330,50,60,70];
         items.splice(2,0,2000);
         console.log(items);
-        
-
-
-    </script>
-</head>
-
-<body>
-    <input type="text" id="position" placeholder="Enter position">
-    <input type="text" id="newel" placeholder="enter new element">
-    <button onclick="insertEl()">Insert</button>
-</body>
-
-</html>
+       
+      
