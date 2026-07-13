@@ -1,3 +1,4 @@
+// Method-1
 const arr = [1, [2, [3]]];
 const flatArr=arr.flat(2)
 console.log(flatArr);
